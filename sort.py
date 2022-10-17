@@ -13,5 +13,4 @@ for i in range(1, len(arr)):
             break
         j -= 1
     arr[j + 1] = a_i
-
 print(arr)
